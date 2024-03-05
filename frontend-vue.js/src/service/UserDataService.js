@@ -1,4 +1,5 @@
-import axios from 'axios'
+import axios from 'axios';
+
 
 
 const USER_API_URL = 'http://localhost:8081/api/v1'
